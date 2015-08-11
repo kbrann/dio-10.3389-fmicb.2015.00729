@@ -5,6 +5,7 @@ require(vegan)
 require(RColorBrewer)
 require(gridExtra)
 set.seed(123)
+#did it work
 #get our water data
 #import qiime biom with taxonomy and tre file
 taxvec1 = c("k__Bacteria", "p__Firmicutes", "c__Bacilli", "o__Bacillales", "f__Staphylococcaceae")
